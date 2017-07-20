@@ -1,0 +1,229 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"id": 1,
+			"chapter": "THEEWATERSKLOOF",
+			"zoom": 13,
+			"image": "img/Theewaterskloof.jpg",
+			"source-credit": "Source: Department of Water and Sanitation",
+			"source-link": "https://www.dwa.gov.za/Hydrology/Weekly/Photo.aspx?photo=H6R001.jpg",
+			"description": " Capacity: 480 188 Ml.Theewaterskloof Dam is located near Villiersdorp and is the largest dam supplying Cape Town. It is the seventh-largest dam in South Africa. It is larger in capacity than the other 13 dams combined.\n\tTheewaterskloof is connected to an extensive system of pipelines and tunnels that, in turn, connects it to the broader Western Cape Water Supply System. Particularly impressive is the 30 km of tunnels that pass through the Franschhoek, Groot Drakenstein and Stellenbosch mountains. The tunnels link the Theewaterskloof Dam with the Cape Town water system near Somerset West via the Kleinplaas Balancing Dam (not to be confused with the Kleinplaats Dam near Simon's Town) in the Jonkershoek Valley near Stellenbosch. The tunnels also connect to pipelines in the Franschhoek Valley linking it to the Wemmershoek and Berg River dams.",
+			"capacity": "480 188"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.252004, -34.033607]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 2,
+			"chapter": "VOELVLEI DAM",
+			"zoom": 13,
+			"image": "img/Voelvlei.jpg",
+			"source-credit": "Source: http://wwmp.org.za / Bruce Sutherland",
+			"source-link": "http://wwmp.org.za/elitsha/wp-content/uploads/2017/04/Voelvlei-Dam-2-678x381.jpg",
+			"description": " Capacity: 164 095 Ml. Voelvlei Dam is Cape Town's second largest supply dam. It is not built on any major river. It is supplied with water from two canals that divert water from the Klein Berg, Leeu and Twenty-Four rivers, which have catchment areas in the Porterville and Tulbagh mountains.\n\nVoelvlei Dam was built by the Department of Water and Sanitation and was completed in 1971.",
+			"capacity": "164 095"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.043137, -33.370464]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 3,
+			"chapter": "BERG RIVER DAM",
+			"zoom": 15,
+			"image": "img/BergRiver.jpg",
+			"source-credit": "Source: Department of Water and Sanitation",
+			"source-link": "https://www.dwa.gov.za/Hydrology/Weekly/Photo.aspx?photo=G1R004.jpg",
+			"description": "Capacity: 130 010 Ml.The Berg River Dam was originally called the Skuifraam Dam, is located in the mountains near Franschhoek and is the newest supply dam. It was completed in 2009, or 112 years after Cape Town's first supply dam was constructed on Table Mountain in 1897.",
+			"capacity": "130 010"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.060968, -33.927924]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 4,
+			"chapter": "WEMMERSHOEK DAM",
+			"zoom": 15,
+			"image": "img/Wemmershoek.jpg",
+			"source-credit": "Source: Department of Water and Sanitation",
+			"source-link": "https://www.dwa.gov.za/Hydrology/Weekly/Photo.aspx?photo=G1R002.jpg",
+			"description": " Capacity: 58 644 Ml. Wemmershoek Dam was completed in 1957 and was the second of Cape Town's dams to be constructed at a remove from Table Mountain. It is also one of the six major dams. It is nearly double the capacity of the Steenbras Lower Dam and is the largest dam owned by the City of Cape Town.\n\nIt was constructed using a clay wall and rockfill embankment rather than a traditional masonry and cement dam wall, which significantly reduced the cost. The dam contains very high quality water that requires relatively little treatment.",
+			"capacity": "58 644"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.091859, -33.823324]
+		}
+	},  {
+		"type": "Feature",
+		"properties": {
+			"id": 5,
+			"chapter": "STEENBRAS UPPER DAM",
+			"zoom": 15,
+			"image": "img/Steenbras_Upper.jpg",
+			"source-credit": "Source: Department of Water and Sanitation",
+			"source-link": "https://www.dwa.gov.za/Hydrology/Weekly/Photo.aspx?photo=G4R007.jpg",
+			"description": " Capacity: 31 767 Ml. The Steenbras Upper Dam was completed in 1977. It is located just upstream of the Steenbras Lower Dam. The Steenbras Upper Dam is also used for generating electricity. It forms the upper reservoir for the City of Cape Town's Steenbras pumped storage scheme.\n\nPump storage schemes are used to generate additional electricity in peak demand periods. During the night they use surplus electricity available on the national grid to pump water back up to the upper reservoir. It is one of the major six suppliers.",
+			"capacity": "31 767"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.916475, -34.163689]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 6,
+			"chapter": "STEENBRAS LOWER DAM",
+			"zoom": 15,
+			"image": "img/Steenbras_Lower.jpg",
+			"source-credit": "Source: Department of Water and Sanitation",
+			"source-link": "https://www.dwa.gov.za/Hydrology/Weekly/Photo.aspx?photo=G4R001.jpg",
+			"description": "Capacity: 33 517 Ml. Steenbras Lower Dam is one of the six major dams supplying Capetown water. It is located in the mountains above Gordon's Bay and was completed in 1921.\n\nFurther work included the building of a new, higher dam wall in 1926 and then raising it still higher in 1954. A second (1926) and third (1949) pipeline to Newlands Reservoir were also constructed.",
+			"capacity": "33 517"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.861338, -34.183582]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 7,
+			"chapter": "KLEINPLAATS DAM",
+			"zoom": 18,
+			"image": "img/Kleinplaas.jpg",
+			"source-credit": "Source: http://www.cape-hike.co.za",
+			"source-link": "http://www.cape-hike.co.za/wp-content/uploads/2008/11/kleinplaasdam4.jpg",
+			"description": " Capacity: 1 368 Ml. Kleinplaats is one of the two small dams supplying Simon's Town. \n",
+			"capacity": "1 368"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.386716, -34.17248]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 8,
+			"chapter": "WOODHEAD RESERVOIR (DAM)",
+			"zoom": 18,
+			"image": "img/Woodhead.jpg",
+			"source-credit": "Source: mapio.net/ Danie van der Merwe",
+			"source-link": "http://static.panoramio.com/photos/large/30412430.jpg",
+			"description": " Capacity: 594 Ml. Table Mountain's first and CapeTown's oldest dam has a 252m-long, 44-metre high dam wall. It was completed in 1897. Steam-driven cable car was built to aid the building process. From the top of the cable car, materials were transported by locomotive to the dam site 2km away and the upper station of the cable car soon mushroomed into a small town with a bank, general dealer and post office.\n\nThe dam provides water to Camps Bay and the high-lying areas of the City Bowl.",
+			"capacity": 954
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.40404, -33.977107]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 9,
+			"chapter": "HELY-HUTCHINSON DAM",
+			"zoom": 18,
+			"image": "img/hely-hutchinson-reservoir-1.jpg",
+			"source-credit": "Source: SA Venues.com/ Waterworks Museum Hike, Cape Town",
+			"source-link": "http://blog.sa-venues.com/wp-content/uploads/2009/08/hely-hutchinson-reservoir-1.jpg",
+			"description": "Capacity: 925 Ml. Hely-Hutchinson is Table Mountain's second reservoir. The dam was completed in 1904 with a 582m-long wall and a water surface area covering around 16 hectares. It still stands today and is known for the unusual white, sandy beach on its Eastern shore.\n\nIt was built upstream from Woodhead Dam and is situated on Table Mountain's Disa River.\n\nWater from the two dams is treated at the Kloofnek Water Treatment Plant. The water is first released into the Disa River Gorge where it flows as a small river towards Hout Bay. Closer to Hout Bay, the water is fed through a 700 metre Woodhead Tunnel that runs through the Twelve Apostles mountains to the Camps Bay side. From there it is piped into cast iron pipes to the Kloofnek Treatment Works. ",
+			"capacity": 925
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.409375, -33.976742]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 10,
+			"chapter": "LAND-EN-ZEEZICHT DAM",
+			"zoom": 15,
+			"image": "img/Land-en-zeezicht.jpg ",
+			"source-credit": " ",
+			"source-link": " ",
+			"description": " Capacity: 451 Ml. Not much is mentioned about this dam.",
+			"capacity": 451
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.870993, -34.068119]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 11,
+			"chapter": "DE VILLIERS DAM",
+			"zoom": 18,
+			"image": "img/Devilliersdam.jpg",
+			"source-credit": "Source: theculturetrip.com / Andrew Thompson",
+			"source-link": "https://cdn.theculturetrip.com/wp-content/uploads/2017/06/devilliersdam.jpg",
+			"description": " Capacity: 243 Ml. De Villiers Dam is another of the small dams on Table Mountain.",
+			"capacity": 243
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.410755, -33.992365]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 12,
+			"chapter": "LEWIS GAY DAM",
+			"zoom": 18,
+			"image": "img/Lewis_Gay.jpg",
+			"source-credit": "Source: http://capetrekking.co.za",
+			"source-link": "http://capetrekking.co.za/wp-content/uploads/2017/06/Lewis_Gay.jpg",
+			"description": " Capacity: 182 Ml. Lewis Gay is one of the two small dams supplying Simon's Town. ",
+			"capacity": 182
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.395195, -34.167247]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 13,
+			"chapter": "VICTORIA RESERVOIR DAM",
+			"zoom": 18,
+			"image": "img/Victoria.jpg",
+			"source-credit": "Source: http://www.google.co.za",
+			"source-link": "http://www.google.co.za/",
+			"description": " Capacity: 127 Ml. Is built above The Alexandra Dam to increase the storage capacity.  It does not discharge directly to the treatment plant but through other dams.",
+			"capacity": 127
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.40573, -33.98515]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": 14,
+			"chapter": "ALEXANDRA DAM",
+			"zoom": 18,
+			"image": "img/Alexandra.jpg",
+			"source-credit": "Source: www.ewisa.co.za",
+			"source-link": "http://www.ewisa.co.za/misc/DamWCAlexandra/007_small.jpg",
+			"description": " Capacity: 126 Ml. The Alexandra was built in 1892 by Mr John Delbridge for the Wynberg Municipality.  The dam was completed in 1903, with a final height of 12 meters. The Alexandra is the centre dam in a chain of three along the Disa valley, and its water is led through the De Villiers Dam on its way down from the mountain.",
+			"capacity": 126
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.409783, -33.987018]
+		}
+	}]
+}
